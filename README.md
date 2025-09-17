@@ -15,3 +15,6 @@ follow the instructions in ./terraform/README.md file
 ```text
 follow the instructions in ./troubleshoot/README.md file
 ```
+
+### 3. If you want to have a paid service use the following
+https://sadservers.com
